@@ -1,4 +1,10 @@
 .jumbotron {
     text-align: center;
-    /*background: none;/* 
+    /*background: none;*/ 
 }
+    
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2em;
+}
+    
