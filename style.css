@@ -29,9 +29,10 @@ h5.modal-title {
     margin-right:0rem;
 }
 
-.img-modal {
+img.img-modal {
     display: block;
     margin: auto;
+    padding: 0 0 20px;
 }
 
 .modal-header.btn-modal-x {
